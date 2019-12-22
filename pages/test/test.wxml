@@ -1,0 +1,8 @@
+<!--pages/test/test.wxml-->
+<view align-items: center>
+<switch class='flex' style='zoom:.9;' bindchange='changeTap'>开关</switch>
+</view>
+  < view class='main' >
+    <text>这是一个控制窗户自动开关的小程序。</text>
+  </view >
+ 
